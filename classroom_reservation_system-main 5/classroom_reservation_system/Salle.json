@@ -1,0 +1,1 @@
+[{"model": "classroom_reservation_app.salle", "pk": 1, "fields": {"num_salle": 23, "capacite": 56, "type": "Langue", "id_batiment": 2}}, {"model": "classroom_reservation_app.salle", "pk": 3, "fields": {"num_salle": 1, "capacite": 30, "type": "chimie", "id_batiment": 2}}]
